@@ -1,0 +1,18 @@
+.datapage {
+    background-size: cover;
+    box-sizing: border-box;
+    margin: auto 200px;
+}
+
+.elements {
+    display: flex;
+    flex-direction: row;
+}
+
+.searchbox {
+    padding: 10px 10px;
+}
+
+.datepicker {
+    padding: 10px 10px;
+}
